@@ -1,6 +1,6 @@
 {
   "name": "webskit-nearest-elements",
-  "version": "1.0.13",
+  "version": "1.0.0",
   "description": "Get the nearest and furthest DOM element regarding mouse position",
   "main": "dist/index.js",
   "scripts": {
