@@ -1,6 +1,6 @@
 {
   "name": "webskit-nearest-elements",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Get the nearest and furthest DOM element regarding mouse position",
   "main": "dist/index.js",
   "scripts": {
@@ -20,11 +20,13 @@
     "eslint-plugin-vue": "^5.1.0",
     "mocha": "^7.1.0",
     "webpack": "^4.41.6",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.11",
+    "minimist": ">=1.2.2",
+    "acorn": ">=6.4.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oceangravity/webskit-gradient-parser.git"
+    "url": "git+https://github.com/oceangravity/webskit-nearest-elements.git"
   },
   "keywords": [
     "mouse",

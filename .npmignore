@@ -31,4 +31,5 @@ LICENSE
 README.md
 .travis.yml
 test.js
+yarn.lock
 
